@@ -1,0 +1,147 @@
+.flex-container-cabecalho {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.formulario {
+    margin: 20px auto; /* Centraliza verticalmente */
+    padding: 20px;
+    background-color: rgb(33, 36, 41);
+    border: 1px solid #ddd; /* Adapte conforme necessário */
+    border-radius: 10px;
+  }
+@media (max-width: 768px) {
+    .formulario {
+      font-size: 14px; /* Tamanho da fonte para telas menores */
+    }
+  }
+.pagina-conteudo {
+    display: flex;
+    margin-top: 60px;
+}
+
+
+.divformulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.conteudo-extra {
+    width: 66%;
+    height: 590px;
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-right: auto;
+    background-color: rgb(33, 36, 41);
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    max-height: 600px;
+    
+}
+
+.tableEditoras {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+.tabelaEditoras {
+    width: 100%;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(33, 36, 41);
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    max-height: 600px;
+    overflow-y: auto;
+  }
+  
+
+.form-label {
+    color: rgb(255, 255, 255);
+    margin-bottom: 0;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+.divformulario {
+    width: 100% auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.formulario {
+    margin: 0 auto;; /* Centraliza verticalmente */
+    padding: 20px;
+    width: 65%;
+    margin-left: 25vw;
+
+    background-color: #fff; /* Adapte conforme necessário */
+    border: 1px solid #ddd; /* Adapte conforme necessário */
+    border-radius: 10px;
+  }
+
+.titulo {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.centralizar {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#tabela {
+    width: 100%;
+    
+    max-height: 600px;
+    overflow-y: auto;
+}
+.fundo{
+    
+    background-color: rgb(33, 36, 41);
+            padding: 20px;
+            border-radius: 10px;
+            
+}
+.col-md-6{
+    width: 100%;
+}
+.g-3{
+    width: 100%;
+}
+.form-group{
+    margin-left:4vw;
+}
+.posit{
+    margin-left:7vw;
+}
+.posit1{
+    margin-left:7vw;
+}
+.movBootamEdit{
+    width: 20%;
+    margin-top: -52px;
+    margin-left: 200%;
+  }
+
+.criarEspaco{
+    width: 100%;
+    height: 80px;
+    
+}
+
